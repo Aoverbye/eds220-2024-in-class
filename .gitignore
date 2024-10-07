@@ -1,6 +1,11 @@
-# Ignore the 'da' directory
+# Ignore the 'data' directory
 
 data/
+
+# Ignore the '.ipynb_checkpoints
+
+.ipynb_checkpoints/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
